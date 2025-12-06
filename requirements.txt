@@ -1,0 +1,7 @@
+streamlit>=1.20
+librosa>=0.9.2
+tensorflow>=2.10
+numpy
+matplotlib
+pillow
+soundfile
